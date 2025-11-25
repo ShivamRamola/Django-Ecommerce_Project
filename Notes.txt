@@ -1,0 +1,18 @@
+// Commands 
+Lib Install : "pip install django djangorestframework psycopg2-binary python-dotenv"
+Setup Project : "django-admin startproject backend ."
+--------- :   "python manage.py startapp store"
+
+// Setup Frontend 
+Create React App : "npm create vite@latest Frontend"
+
+
+
+// Postgres Database Setup 
+Open Sql Cell ---> Enter ---> Add Password
+For view Version : "Select Version();"
+To See PreInstalled DB: "\l"
+To Create DB : "create database Databse_name;" 
+Use That DB : "/c Database_name"
+
+
