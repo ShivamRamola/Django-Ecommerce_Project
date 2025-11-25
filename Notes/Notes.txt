@@ -15,4 +15,5 @@ To See PreInstalled DB: "\l"
 To Create DB : "create database Databse_name;" 
 Use That DB : "/c Database_name"
 
+To Terminate Vir Env / (ai-doctor-2.0-voice-and-vision-main)  : "deactivate"
 
